@@ -1,17 +1,15 @@
 ---
-title: About
+title: Hallo Hallo Hallo
 layout: page
 permalink: /about/
 ---
 
-# [Bajawa Jekyll Theme][1]
+# [Fit-Bit][1]
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/kulacino/bajawa/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
 [![Treat me a coffee](https://img.shields.io/badge/PayPal-tip%20me-green.svg?style=flat-square&logo=paypal)](https://paypal.me/ayuwindd)
 
-Welcome to Bajawa! A simple and clean Jekyll theme with a little touch of pastel colors! In this readme, you'll find the documentations you need to be able to set up this theme into jekyll.
-
-Bajawa could be used as a starter also. Customize and tweak it with your own style.
+Ich versuche meine Website so zu ändern, dass es passt
 
 **Bajawa theme information:**
 
